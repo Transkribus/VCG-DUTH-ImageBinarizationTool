@@ -12,7 +12,9 @@ single generic mode along with further optimizations with respect to the selecti
 Original Document | Binarization
 -------------------------------|--------------------------
 ![Original Document](doc1.jpg) | ![Binarization](doc2.png)
+
 Enhancement | Binarisation after enhancement
+-------------------------------|--------------------------
 ![Enhancement](doc3.png) | ![Binarization after enhancement](doc4.png)
 
 
