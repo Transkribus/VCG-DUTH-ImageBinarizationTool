@@ -7,7 +7,9 @@
 In the frame of “READ” project a binarisation method was adopted from 
 the “tranScriptorium” project. The modifications include the merge of the three
 different basic variations (Default, Bleed-through and Faint characters’) into a 
-single generic mode along with further optimizations with respect to the selection of various thresholds. The binarisation method is developed in C++11 and is available at github under LGPL-3.0:
+single generic mode along with further optimizations with respect to the selection of various thresholds. 
+
+The binarisation method is developed in C++11 and is available at github under LGPL-3.0:
 
 Original Document | Binarization
 -------------------------------|--------------------------
